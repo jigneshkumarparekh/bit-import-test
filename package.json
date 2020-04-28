@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.0.1",
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/router": "~9.0.1",
-    "@bit/parekhj-roche-org.bit-angular-test.case-list": "^1.0.4",
+    "@bit/parekhj-roche-org.bit-angular-test.case-list": "^1.0.6",
     "@bit/parekhj-roche-org.bit-angular-test.some-list": "^1.0.4",
     "@bit/parekhj_roche.angular-tutorial.avatar": "^1.0.2",
     "@bit/parekhj_roche.angular-tutorial.product-list": "^1.0.1",
